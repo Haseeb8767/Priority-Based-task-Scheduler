@@ -1,4 +1,5 @@
-# Priority-Based-task-Scheduler
+# Priority-Based-task-Scheduler 
+(By Haseeb and  G sai charan )
 #Overview of the Project:
 #This project is basically a application of priority based task scheduler for a restaurant where we decide priority among the customers. 
    
