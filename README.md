@@ -1,5 +1,6 @@
 # Priority-Based-task-Scheduler 
 (By Haseeb and  G sai charan )
+
 #Overview of the Project:
 #This project is basically a application of priority based task scheduler for a restaurant where we decide priority among the customers. 
    
@@ -10,3 +11,5 @@ The priority is determined based on:
 3)Whether the customer is old or new (old customers are given priority over new ones).
 
 The conditions are mentioned in priority wise like if for two customer condition 1 is same then it will checks for condition 2 ,and if condition 1 and condition 2 are same then checks for condition 3. 
+
+The name of the customers is saved in file customers.txt and from there only we come to know whether customer is oled or new customer
